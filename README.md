@@ -134,9 +134,11 @@ if __name__ == '__main__':
 ```
 ## OUTPUT:
 ### CLIENT:
-![image](https://github.com/user-attachments/assets/90fb0d53-62f7-4213-8b49-5cf87265aad0)
+![Screenshot 2024-09-09 184703](https://github.com/user-attachments/assets/4080824c-21ac-4b3b-bbc5-0ff8c6f0f580)
+
 ### SERVER:
-![image](https://github.com/user-attachments/assets/d6fff640-cbfa-433d-b975-114267b66324)
+![image](https://github.com/user-attachments/assets/10db82af-c21b-4687-b6ee-aadb9537b5be)
+
 
 ## Result:
 
